@@ -1,0 +1,10 @@
+.debhelper/
+*.deb
+*.buildinfo
+*.changes
+*.ddeb
+*.tar.gz
+*.dsc
+*.patch
+debian/files
+debian/substvars
