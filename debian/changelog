@@ -1,8 +1,14 @@
-hello (2.10-3build1-valerio1) UNRELEASED; urgency=low
+hello (2.10-3build1-valerio2) noble; urgency=medium
+
+  * Rebuild for arm64 architecture
+
+ -- ValerioGregori <gregorivalerio@gmail.com>  Sun, 15 Mar 2026 23:53:41 +0100
+
+hello (2.10-3build1-valerio1) noble; urgency=low
 
   * Added testing.sh and echo messages required
 
- -- ValerioGregori <gregorivalerio@gmail.com>  Sun, 15 Mar 2026 14:22:10 +0100
+ -- ValerioGregori <gregorivalerio@gmail.com>  Sun, 15 Mar 2026 16:40:35 +0100
 
 hello (2.10-3build1) noble; urgency=high
 
