@@ -11,11 +11,11 @@ and distributing software via a Personal Package Archive (PPA).
 - **Automated Packaging:** Configured with custom `debian/` rules and post-installation hook.
 - **PPA Distribution:** Fully functional PPA for automatic updates and installatin.
 
-## PPA Installation
-You can install this package directly from my personal repository:
-
 ## PPA pkg Link:
 https://launchpad.net/~valeriog95/+archive/ubuntu/hello-ppa
+
+## PPA Installation
+You can install this package directly from my personal repository:
 
 ```bash
 # Add the PPA
